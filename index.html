@@ -1,38 +1,927 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>PayProofly - We Tested 75 Money Apps So You Don't Get Scammed</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@600;800&display=swap" rel="stylesheet">
-<style>
-*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui;background:#f8f9fb;color:#111}
-header{max-width:1100px;margin:0 auto;padding:20px;display:flex;justify-content:space-between;align-items:center}
-.logo{font-weight:800;font-size:20px} .logo span{color:#5a45fe}
-.hero{max-width:1100px;margin:20px auto;padding:60px 20px;text-align:center}
-.hero h1{font-size:52px;line-height:1.05;margin:0;letter-spacing:-2px}
-.hero p{font-size:18px;color:#666;max-width:600px;margin:16px auto}
-.search{width:100%;max-width:500px;margin:24px auto;display:block;padding:16px 20px;border-radius:999px;border:1px solid #ddd;font-size:16px}
-.grid{max-width:1100px;margin:0 auto;padding:20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
-.card{background:#fff;border:1px solid #eee;border-radius:16px;padding:18px;text-decoration:none;color:#111;transition:.2s}
-.card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.08);border-color:#111}
-.badge{font-size:11px;background:#eef0ff;color:#5a45fe;padding:4px 8px;border-radius:999px;font-weight:600}
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>PayProofly — Payment Proof, Bonuses & Legit Reviews</title>
+
+    <meta
+        name="description"
+        content="Discover payment proof, bonuses and honest reviews for paid survey apps, game rewards apps and cashback apps."
+    >
+
+    <meta
+        name="robots"
+        content="index, follow"
+    >
+
+    <link
+        rel="canonical"
+        href="https://payproofly.pages.dev/"
+    >
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- WebSite structured data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "PayProofly",
+        "url": "https://payproofly.pages.dev/",
+        "description": "Payment proof, bonuses and reviews for apps that claim to pay users."
+    }
+    </script>
+
+    <!-- ItemList structured data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "PayProofly Featured Apps",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Freecash",
+                "url": "https://payproofly.pages.dev/freecash/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Prime Opinion",
+                "url": "https://payproofly.pages.dev/prime-opinion/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "AttaPoll",
+                "url": "https://payproofly.pages.dev/attapoll/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Toluna",
+                "url": "https://payproofly.pages.dev/toluna/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 5,
+                "name": "Swagbucks",
+                "url": "https://payproofly.pages.dev/swagbucks/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 6,
+                "name": "Mistplay",
+                "url": "https://payproofly.pages.dev/mistplay/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 7,
+                "name": "Rewarded Play",
+                "url": "https://payproofly.pages.dev/rewarded-play/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 8,
+                "name": "Cash Giraffe",
+                "url": "https://payproofly.pages.dev/cash-giraffe/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 9,
+                "name": "JustPlay",
+                "url": "https://payproofly.pages.dev/justplay/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 10,
+                "name": "Freecash Games",
+                "url": "https://payproofly.pages.dev/freecash-games/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 11,
+                "name": "Rakuten",
+                "url": "https://payproofly.pages.dev/rakuten/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 12,
+                "name": "Ibotta",
+                "url": "https://payproofly.pages.dev/ibotta/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 13,
+                "name": "Fetch Rewards",
+                "url": "https://payproofly.pages.dev/fetch-rewards/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 14,
+                "name": "Shopkick",
+                "url": "https://payproofly.pages.dev/shopkick/"
+            },
+            {
+                "@type": "ListItem",
+                "position": 15,
+                "name": "Checkout 51",
+                "url": "https://payproofly.pages.dev/checkout-51/"
+            }
+        ]
+    }
+    </script>
 </head>
+
 <body>
-<header><div class="logo"><span>Pay</span>Proofly</div><div style="font-size:13px;color:#666">75 APPS TESTED • 2026</div></header>
-<div class="hero">
-<h1>Is it legit? <br>We show payment proof.</h1>
-<p>We installed and tested 75 apps that claim to pay you. No fake reviews, only screenshots of real payments.</p>
-<input id="s" class="search" placeholder="Search app: Freecash, Swagbucks, Toluna..." onkeyup="filter()">
-</div>
-<div class="grid" id="g"></div>
-<script>
-const apps=["freecash","testbirds","usertesting","triaba","toluna","prime-opinion","swagbucks","surveyjunkie","inboxdollars","yougov","prolific","attapoll","cashkarma","zap-surveys","streetbees","everve","timebucks","cashyy","mistplay","justplay","appflame","cash-alo","money-well","money-turn","money-come","coin-pop","rewarded-play","testerup","test-io","testapic","userlytics","try-my-ui","respondent","usercrowd","u-test","clickworker","remotasks","transcribe-me","rev","go-transcript","sproutgigs","picoworkers","rapidworkers","microworkers","amazonturk","five-squirrels","scribie","honeygain","pawns-app","packetshare","peer2profit","earn-app","cash-raven","cashmagnet","mcmoney","geminset","featurepoints","cashpirate","appkarma","appstation","cash-em-all","lucky-cash","bumped","acorns","sweatcoin","step-set-go","current-music","mode-earn-app","foap","shutterstock-contributor","eyeem","userfeel","be-my-eye","roamler","field-agent","mobeye"];
-const g=document.getElementById('g');
-function render(list){g.innerHTML=list.map(a=>`<a class="card" href="/${a}/"><span class="badge">REVIEW</span><h3 style="margin:10px 0 6px;text-transform:capitalize">Is ${a.replace(/-/g,' ')} legit?</h3><p style="margin:0;color:#666;font-size:13px">Payment proof + honest test →</p></a>`).join('')}
-function filter(){const q=document.getElementById('s').value.toLowerCase();render(apps.filter(a=>a.includes(q)))}
-render(apps);
-</script>
+
+    <!-- HEADER -->
+    <header class="site-header">
+        <a href="/" class="logo" aria-label="PayProofly Home">
+            <span>Pay</span>Proofly
+        </a>
+
+        <div class="header-meta">
+            15 APPS • 2026
+        </div>
+    </header>
+
+
+    <main>
+
+        <!-- HERO -->
+        <section class="hero">
+
+            <div class="hero-badge">
+                PAYMENT PROOF & REVIEWS
+            </div>
+
+            <h1>
+                Is it legit?
+                <br>
+                We show the proof.
+            </h1>
+
+            <p>
+                Discover payment proof, bonuses and honest reviews
+                for apps that claim to help you earn money.
+            </p>
+
+            <div class="search-wrapper">
+                <label for="search" class="sr-only">
+                    Search apps
+                </label>
+
+                <input
+                    id="search"
+                    class="search"
+                    type="search"
+                    placeholder="Search app: Freecash, Swagbucks, Toluna..."
+                    autocomplete="off"
+                >
+            </div>
+
+        </section>
+
+
+        <!-- SEARCH RESULT MESSAGE -->
+        <div
+            id="searchStatus"
+            class="search-status"
+            aria-live="polite"
+        ></div>
+
+
+        <!-- PAID SURVEYS -->
+        <section
+            class="category-section"
+            data-category="paid surveys"
+        >
+
+            <div class="section-heading">
+                <div>
+                    <span class="section-label">
+                        CATEGORY 01
+                    </span>
+
+                    <h2>
+                        Paid Surveys
+                    </h2>
+                </div>
+
+                <p>
+                    Apps that reward users for completing surveys and research studies.
+                </p>
+            </div>
+
+
+            <div class="grid">
+
+                <!-- Freecash -->
+                <a
+                    href="/freecash/"
+                    class="card"
+                    data-name="Freecash"
+                    data-category="Paid Surveys"
+                >
+                    <div class="card-visual visual-freecash">
+                        <span>FC</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Paid Surveys
+                        </span>
+
+                        <h3>
+                            Freecash
+                        </h3>
+
+                        <p>
+                            Freecash payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+
+                <!-- Prime Opinion -->
+                <a
+                    href="/prime-opinion/"
+                    class="card"
+                    data-name="Prime Opinion"
+                    data-category="Paid Surveys"
+                >
+                    <div class="card-visual visual-prime">
+                        <span>PO</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Paid Surveys
+                        </span>
+
+                        <h3>
+                            Prime Opinion
+                        </h3>
+
+                        <p>
+                            Prime Opinion payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+
+                <!-- AttaPoll -->
+                <a
+                    href="/attapoll/"
+                    class="card"
+                    data-name="AttaPoll"
+                    data-category="Paid Surveys"
+                >
+                    <div class="card-visual visual-attapoll">
+                        <span>AP</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Paid Surveys
+                        </span>
+
+                        <h3>
+                            AttaPoll
+                        </h3>
+
+                        <p>
+                            AttaPoll payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+
+                <!-- Toluna -->
+                <a
+                    href="/toluna/"
+                    class="card"
+                    data-name="Toluna"
+                    data-category="Paid Surveys"
+                >
+                    <div class="card-visual visual-toluna">
+                        <span>T</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Paid Surveys
+                        </span>
+
+                        <h3>
+                            Toluna
+                        </h3>
+
+                        <p>
+                            Toluna payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+
+                <!-- Swagbucks -->
+                <a
+                    href="/swagbucks/"
+                    class="card"
+                    data-name="Swagbucks"
+                    data-category="Paid Surveys"
+                >
+                    <div class="card-visual visual-swagbucks">
+                        <span>SB</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Paid Surveys
+                        </span>
+
+                        <h3>
+                            Swagbucks
+                        </h3>
+
+                        <p>
+                            Swagbucks payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+            </div>
+
+        </section>
+
+
+        <!-- GET PAID TO PLAY GAMES -->
+        <section
+            class="category-section"
+            data-category="get paid to play games"
+        >
+
+            <div class="section-heading">
+                <div>
+                    <span class="section-label">
+                        CATEGORY 02
+                    </span>
+
+                    <h2>
+                        Get Paid To Play Games
+                    </h2>
+                </div>
+
+                <p>
+                    Gaming reward apps that offer points, cash or gift cards for playing.
+                </p>
+            </div>
+
+
+            <div class="grid">
+
+                <!-- Mistplay -->
+                <a
+                    href="/mistplay/"
+                    class="card"
+                    data-name="Mistplay"
+                    data-category="Get Paid To Play Games"
+                >
+                    <div class="card-visual visual-mistplay">
+                        <span>M</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Gaming Rewards
+                        </span>
+
+                        <h3>
+                            Mistplay
+                        </h3>
+
+                        <p>
+                            Mistplay payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+
+                <!-- Rewarded Play -->
+                <a
+                    href="/rewarded-play/"
+                    class="card"
+                    data-name="Rewarded Play"
+                    data-category="Get Paid To Play Games"
+                >
+                    <div class="card-visual visual-rewarded">
+                        <span>RP</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Gaming Rewards
+                        </span>
+
+                        <h3>
+                            Rewarded Play
+                        </h3>
+
+                        <p>
+                            Rewarded Play payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+
+                <!-- Cash Giraffe -->
+                <a
+                    href="/cash-giraffe/"
+                    class="card"
+                    data-name="Cash Giraffe"
+                    data-category="Get Paid To Play Games"
+                >
+                    <div class="card-visual visual-giraffe">
+                        <span>CG</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Gaming Rewards
+                        </span>
+
+                        <h3>
+                            Cash Giraffe
+                        </h3>
+
+                        <p>
+                            Cash Giraffe payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+
+                <!-- JustPlay -->
+                <a
+                    href="/justplay/"
+                    class="card"
+                    data-name="JustPlay"
+                    data-category="Get Paid To Play Games"
+                >
+                    <div class="card-visual visual-justplay">
+                        <span>JP</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Gaming Rewards
+                        </span>
+
+                        <h3>
+                            JustPlay
+                        </h3>
+
+                        <p>
+                            JustPlay payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+
+                <!-- Freecash Games -->
+                <a
+                    href="/freecash-games/"
+                    class="card"
+                    data-name="Freecash Games"
+                    data-category="Get Paid To Play Games"
+                >
+                    <div class="card-visual visual-freecash-games">
+                        <span>FG</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Gaming Rewards
+                        </span>
+
+                        <h3>
+                            Freecash Games
+                        </h3>
+
+                        <p>
+                            Freecash Games payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+            </div>
+
+        </section>
+
+
+        <!-- CASHBACK -->
+        <section
+            class="category-section"
+            data-category="cashback apps"
+        >
+
+            <div class="section-heading">
+                <div>
+                    <span class="section-label">
+                        CATEGORY 03
+                    </span>
+
+                    <h2>
+                        Cashback Apps
+                    </h2>
+                </div>
+
+                <p>
+                    Apps that give users rewards or cashback when shopping and uploading receipts.
+                </p>
+            </div>
+
+
+            <div class="grid">
+
+                <!-- Rakuten -->
+                <a
+                    href="/rakuten/"
+                    class="card"
+                    data-name="Rakuten"
+                    data-category="Cashback Apps"
+                >
+                    <div class="card-visual visual-rakuten">
+                        <span>R</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Cashback
+                        </span>
+
+                        <h3>
+                            Rakuten
+                        </h3>
+
+                        <p>
+                            Rakuten payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+
+                <!-- Ibotta -->
+                <a
+                    href="/ibotta/"
+                    class="card"
+                    data-name="Ibotta"
+                    data-category="Cashback Apps"
+                >
+                    <div class="card-visual visual-ibotta">
+                        <span>I</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Cashback
+                        </span>
+
+                        <h3>
+                            Ibotta
+                        </h3>
+
+                        <p>
+                            Ibotta payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+
+                <!-- Fetch Rewards -->
+                <a
+                    href="/fetch-rewards/"
+                    class="card"
+                    data-name="Fetch Rewards"
+                    data-category="Cashback Apps"
+                >
+                    <div class="card-visual visual-fetch">
+                        <span>FR</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Cashback
+                        </span>
+
+                        <h3>
+                            Fetch Rewards
+                        </h3>
+
+                        <p>
+                            Fetch Rewards payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+
+                <!-- Shopkick -->
+                <a
+                    href="/shopkick/"
+                    class="card"
+                    data-name="Shopkick"
+                    data-category="Cashback Apps"
+                >
+                    <div class="card-visual visual-shopkick">
+                        <span>SK</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Cashback
+                        </span>
+
+                        <h3>
+                            Shopkick
+                        </h3>
+
+                        <p>
+                            Shopkick payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+
+                <!-- Checkout 51 -->
+                <a
+                    href="/checkout-51/"
+                    class="card"
+                    data-name="Checkout 51"
+                    data-category="Cashback Apps"
+                >
+                    <div class="card-visual visual-checkout">
+                        <span>51</span>
+                    </div>
+
+                    <div class="card-content">
+
+                        <span class="badge">
+                            Cashback
+                        </span>
+
+                        <h3>
+                            Checkout 51
+                        </h3>
+
+                        <p>
+                            Checkout 51 payment proof, bonus and is it legit review
+                        </p>
+
+                        <span class="card-link">
+                            View review →
+                        </span>
+
+                    </div>
+                </a>
+
+            </div>
+
+        </section>
+
+
+        <!-- SEO CONTENT -->
+        <section class="seo-content">
+
+            <article>
+                <h2>
+                    Paid Survey Apps
+                </h2>
+
+                <p>
+                    Paid survey apps can reward users for sharing opinions,
+                    answering research questions and completing consumer studies.
+                    PayProofly helps you research popular platforms such as
+                    Freecash, Prime Opinion, AttaPoll, Toluna and Swagbucks.
+                    Explore payment proof, available bonuses, earning information
+                    and legitimacy reviews before spending your time on a survey app.
+                </p>
+            </article>
+
+
+            <article>
+                <h2>
+                    Get Paid To Play Games
+                </h2>
+
+                <p>
+                    Game reward apps offer another way to earn points, rewards
+                    or gift cards while playing mobile games. PayProofly covers
+                    platforms including Mistplay, Rewarded Play, Cash Giraffe,
+                    JustPlay and Freecash Games. Our individual pages are designed
+                    to help you research how each platform works, how rewards are
+                    earned and what users should know before getting started.
+                </p>
+            </article>
+
+
+            <article>
+                <h2>
+                    Cashback Apps
+                </h2>
+
+                <p>
+                    Cashback apps can help shoppers earn rewards from eligible
+                    purchases, receipts and participating stores. PayProofly covers
+                    popular services such as Rakuten, Ibotta, Fetch Rewards,
+                    Shopkick and Checkout 51. Use our reviews to research payment
+                    information, bonuses, earning methods and whether each cashback
+                    platform matches what you are looking for.
+                </p>
+            </article>
+
+        </section>
+
+
+        <!-- FAQ -->
+        <section class="faq">
+
+            <div class="faq-heading">
+                <span class="section-label">
+                    FAQ
+                </span>
+
+                <h2>
+                    Frequently Asked Questions
+                </h2>
+            </div>
+
+
+            <div class="faq-list">
+
+                <details>
+                    <summary>
+                        Are these apps legit?
+                    </summary>
+
+                    <p>
+                        Legitimacy can vary by platform, country, reward method
+                        and account conditions. PayProofly provides individual
+                        pages so you can research each app before signing up.
+                    </p>
+                </details>
+
+
+                <details>
+                    <summary>
+                        How do these apps pay users?
+                    </summary>
+
+                    <p>
+                        Payment methods vary between apps. Depending on the
+                        platform, rewards may include PayPal, gift cards,
+                        cashback or other available redemption options.
+                    </p>
+                </details>
+
+
+                <details>
+                    <summary>
+                        How much can you make?
+                    </summary>
+
+                    <p>
+                        Earnings depend on the app, available tasks, location,
+                        time spent and eligibility. There is no guaranteed
+                        amount, so check the individual review for more details.
+                    </p>
+                </details>
+
+            </div>
+
+        </section>
+
+    </main>
+
+
+    <!-- FOOTER -->
+    <footer class="site-footer">
+
+        <div class="footer-inner">
+
+            <div class="footer-logo">
+                <span>Pay</span>Proofly
+            </div>
+
+            <p>
+                Payment proof, app reviews and earning research.
+            </p>
+
+            <div class="footer-copy">
+                © 2026 PayProofly. All rights reserved.
+            </div>
+
+        </div>
+
+    </footer>
+
+
+    <script src="js/app.js" defer></script>
+
 </body>
 </html>
