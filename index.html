@@ -1,9 +1,16 @@
 <!DOCTYPE html>
-<html>
-<head><title>PayProofly - Coming Soon</title></head>
-<body style="font-family:sans-serif; text-align:center; padding:50px">
-<h1>PayProofly is building...</h1>
-<p>75 apps tested. Is it legit? Proof of payment.</p>
-<p>Building Phase 1...</p>
-</body>
-</html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PayProofly - 75 Apps Tested</title>
+<style>
+body{font-family:system-ui;max-width:1000px;margin:0 auto;padding:20px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.card{border:1px solid #ddd;border-radius:12px;padding:14px;text-decoration:none;color:#000}
+.card:hover{border-color:#000}
+</style></head><body>
+<h1>PayProofly - 75 Apps Tested</h1>
+<p>Is it legit? We show payment proof. Phase 1 Live.</p>
+<div class="grid" id="g"></div>
+<script>
+const apps=["freecash","testbirds","usertesting","triaba","toluna","prime-opinion","swagbucks","surveyjunkie","inboxdollars","yougov","prolific","attapoll","cashkarma","zap-surveys","streetbees","everve","timebucks","cashyy","mistplay","justplay","appflame","cash-alo","money-well","money-turn","money-come","coin-pop","rewarded-play","testerup","test-io","testapic","userlytics","try-my-ui","respondent","usercrowd","u-test","clickworker","remotasks","transcribe-me","rev","go-transcript","sproutgigs","picoworkers","rapidworkers","microworkers","amazonturk","five-squirrels","scribie","honeygain","pawns-app","packetshare","peer2profit","earn-app","cash-raven","cashmagnet","mcmoney","geminset","featurepoints","cashpirate","appkarma","appstation","cash-em-all","lucky-cash","bumped","acorns","sweatcoin","step-set-go","current-music","mode-earn-app","foap","shutterstock-contributor","eyeem","userfeel","be-my-eye","roamler","field-agent","mobeye"];
+document.getElementById('g').innerHTML=apps.map(a=>`<a class="card" href="/${a}/"><b>Is ${a} legit?</b><br><small>proof + review →</small></a>`).join('');
+</script></body></html>
