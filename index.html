@@ -1,16 +1,38 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>PayProofly - 75 Apps Tested</title>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PayProofly - We Tested 75 Money Apps So You Don't Get Scammed</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@600;800&display=swap" rel="stylesheet">
 <style>
-body{font-family:system-ui;max-width:1000px;margin:0 auto;padding:20px}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
-.card{border:1px solid #ddd;border-radius:12px;padding:14px;text-decoration:none;color:#000}
-.card:hover{border-color:#000}
-</style></head><body>
-<h1>PayProofly - 75 Apps Tested</h1>
-<p>Is it legit? We show payment proof. Phase 1 Live.</p>
+*{box-sizing:border-box}body{margin:0;font-family:Inter,system-ui;background:#f8f9fb;color:#111}
+header{max-width:1100px;margin:0 auto;padding:20px;display:flex;justify-content:space-between;align-items:center}
+.logo{font-weight:800;font-size:20px} .logo span{color:#5a45fe}
+.hero{max-width:1100px;margin:20px auto;padding:60px 20px;text-align:center}
+.hero h1{font-size:52px;line-height:1.05;margin:0;letter-spacing:-2px}
+.hero p{font-size:18px;color:#666;max-width:600px;margin:16px auto}
+.search{width:100%;max-width:500px;margin:24px auto;display:block;padding:16px 20px;border-radius:999px;border:1px solid #ddd;font-size:16px}
+.grid{max-width:1100px;margin:0 auto;padding:20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:#fff;border:1px solid #eee;border-radius:16px;padding:18px;text-decoration:none;color:#111;transition:.2s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 30px rgba(0,0,0,.08);border-color:#111}
+.badge{font-size:11px;background:#eef0ff;color:#5a45fe;padding:4px 8px;border-radius:999px;font-weight:600}
+</style>
+</head>
+<body>
+<header><div class="logo"><span>Pay</span>Proofly</div><div style="font-size:13px;color:#666">75 APPS TESTED • 2026</div></header>
+<div class="hero">
+<h1>Is it legit? <br>We show payment proof.</h1>
+<p>We installed and tested 75 apps that claim to pay you. No fake reviews, only screenshots of real payments.</p>
+<input id="s" class="search" placeholder="Search app: Freecash, Swagbucks, Toluna..." onkeyup="filter()">
+</div>
 <div class="grid" id="g"></div>
 <script>
 const apps=["freecash","testbirds","usertesting","triaba","toluna","prime-opinion","swagbucks","surveyjunkie","inboxdollars","yougov","prolific","attapoll","cashkarma","zap-surveys","streetbees","everve","timebucks","cashyy","mistplay","justplay","appflame","cash-alo","money-well","money-turn","money-come","coin-pop","rewarded-play","testerup","test-io","testapic","userlytics","try-my-ui","respondent","usercrowd","u-test","clickworker","remotasks","transcribe-me","rev","go-transcript","sproutgigs","picoworkers","rapidworkers","microworkers","amazonturk","five-squirrels","scribie","honeygain","pawns-app","packetshare","peer2profit","earn-app","cash-raven","cashmagnet","mcmoney","geminset","featurepoints","cashpirate","appkarma","appstation","cash-em-all","lucky-cash","bumped","acorns","sweatcoin","step-set-go","current-music","mode-earn-app","foap","shutterstock-contributor","eyeem","userfeel","be-my-eye","roamler","field-agent","mobeye"];
-document.getElementById('g').innerHTML=apps.map(a=>`<a class="card" href="/${a}/"><b>Is ${a} legit?</b><br><small>proof + review →</small></a>`).join('');
-</script></body></html>
+const g=document.getElementById('g');
+function render(list){g.innerHTML=list.map(a=>`<a class="card" href="/${a}/"><span class="badge">REVIEW</span><h3 style="margin:10px 0 6px;text-transform:capitalize">Is ${a.replace(/-/g,' ')} legit?</h3><p style="margin:0;color:#666;font-size:13px">Payment proof + honest test →</p></a>`).join('')}
+function filter(){const q=document.getElementById('s').value.toLowerCase();render(apps.filter(a=>a.includes(q)))}
+render(apps);
+</script>
+</body>
+</html>
