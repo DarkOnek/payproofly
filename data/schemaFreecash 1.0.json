@@ -1,0 +1,1495 @@
+{
+  "schemaVersion": "1.0",
+
+  "app": {
+    "name": "Freecash",
+    "slug": "freecash",
+    "category": "Get Paid To",
+    "subcategory": "Games, Surveys & Rewards",
+    "officialUrl": "https://freecash.com/",
+    "logoUrl": "",
+    "companyName": "Almedia",
+    "operator": "Almedia GmbH",
+    "foundedYear": 2020,
+    "countryOfOrigin": "Germany",
+    "availability": "Available internationally, with offers, bonuses, payment methods and eligibility varying by region.",
+    "reviewDate": "2026-09-28"
+  },
+
+  "research": {
+    "status": "complete",
+    "researchDate": "2026-09-28",
+
+    "primarySources": [
+      {
+        "name": "Freecash Official Website",
+        "url": "https://freecash.com/",
+        "type": "primary"
+      },
+      {
+        "name": "Freecash Terms of Service",
+        "url": "https://freecash.com/en/policies/terms",
+        "type": "primary"
+      },
+      {
+        "name": "Freecash - Is Freecash Legit?",
+        "url": "https://freecash.com/academy/en/support/general/platform/is-freecash-legit",
+        "type": "primary"
+      },
+      {
+        "name": "Freecash - Your First Withdrawal",
+        "url": "https://freecash.com/academy/en/support/withdrawal/issues/first-cashout-requirements",
+        "type": "primary"
+      },
+      {
+        "name": "Freecash - Where to Find Freecash Codes",
+        "url": "https://freecash.com/academy/en/support/account/rewards/where-freecash-codes",
+        "type": "primary"
+      },
+      {
+        "name": "Freecash - How to Cashout with PayPal",
+        "url": "https://freecash.com/academy/en/support/withdrawal/cash/how-withdraw-to-paypal",
+        "type": "primary"
+      },
+      {
+        "name": "Freecash - Why Is My Withdrawal Still Pending?",
+        "url": "https://freecash.com/academy/en/support/withdrawal/issues/why-withdrawal-pending",
+        "type": "primary"
+      },
+      {
+        "name": "Freecash - Make Money Online",
+        "url": "https://freecash.com/academy/en/insider/how-to-earn-money-on-freecash",
+        "type": "primary"
+      },
+      {
+        "name": "Freecash - How to Earn $100/Month",
+        "url": "https://freecash.com/academy/en/insider/how-earn-100-dollars-monthly-freecash",
+        "type": "primary"
+      }
+    ],
+
+    "secondarySources": [
+      {
+        "name": "TechCrunch - Freecash App Store Investigation",
+        "url": "https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/",
+        "type": "secondary"
+      }
+    ],
+
+    "conflictingInformation": [
+      {
+        "topic": "Reported total payouts",
+        "details": "Freecash's own pages have reported different aggregate payout figures at different times. PayProofly should attribute any aggregate figure directly to Freecash and should not present it as independently audited."
+      },
+      {
+        "topic": "2026 app-store controversy",
+        "details": "Independent reporting in April 2026 described the removal of Freecash apps from Apple and Google app stores and raised concerns about marketing and data practices. Almedia disputed allegations it considered inaccurate or misleading. These claims should remain attributed to their respective sources."
+      },
+      {
+        "topic": "Availability",
+        "details": "Freecash availability, offers, withdrawal methods, minimums and promotional eligibility can vary by country and account."
+      }
+    ],
+
+    "verificationNotes": [
+      "Do not claim that PayProofly personally tested a Freecash payment unless a real PayProofly test has been performed.",
+      "Do not use payment screenshots as independently verified proof unless the underlying transaction can be verified.",
+      "Do not present advertised maximum rewards as typical earnings.",
+      "Promotional codes are volatile and should be verified immediately before publication.",
+      "Company-reported user counts and payout totals should be attributed to Freecash.",
+      "Controversial claims should be attributed to the source making the claim."
+    ]
+  },
+
+  "seo": {
+    "hub": {
+      "title": "Freecash Review: Payments, Bonuses & How It Works | PayProofly",
+      "description": "Freecash review covering how the platform works, payment methods, bonuses, earnings, withdrawal requirements and what to know before signing up."
+    },
+
+    "isItLegit": {
+      "title": "Is Freecash Legit? Payments, Bonus & 2026 Review | PayProofly",
+      "description": "Is Freecash legit? See how Freecash works, payment methods, withdrawal requirements, bonuses, recent 2026 developments and what to know before signing up."
+    },
+
+    "paymentProof": {
+      "title": "Freecash Payment Proof: Does Freecash Really Pay? | PayProofly",
+      "description": "Looking for Freecash payment proof? Learn how Freecash withdrawals work, what payment evidence to check, first cashout requirements and how to verify a payout."
+    },
+
+    "bonus": {
+      "title": "Freecash Bonus Code: Sign-Up Bonus & Promo Codes | PayProofly",
+      "description": "Looking for a Freecash bonus code? Learn about the current Freecash sign-up bonus, promo codes, how to redeem them, eligibility and where to find new offers."
+    },
+
+    "doesItPay": {
+      "title": "Does Freecash Pay? Does Freecash Really Pay? | PayProofly",
+      "description": "Does Freecash really pay? Learn how Freecash rewards, withdrawals and payment methods work, what can delay a payout and what to check before cashing out."
+    },
+
+    "howMuchDoesItPay": {
+      "title": "How Much Does Freecash Pay? Realistic Earnings Guide | PayProofly",
+      "description": "How much does Freecash pay? Learn what affects Freecash earnings, how much different offers can pay, realistic earning expectations and how to evaluate an offer before starting."
+    }
+  },
+
+  "platform": {
+    "shortDescription": "Freecash is a rewards platform where users can earn by completing surveys, games, app testing, shopping and other offers.",
+
+    "fullDescription": "Freecash is a get-paid-to rewards platform operated by Almedia. Users can earn rewards by completing qualifying activities such as games, surveys, app testing, shopping and other offers. Rewards can be redeemed through available withdrawal methods that vary by region and account.",
+
+    "platformType": "Get-paid-to / rewards platform",
+
+    "howItWorks": [
+      "Create a Freecash account.",
+      "Browse available offers, surveys, games or other earning activities.",
+      "Select an eligible offer.",
+      "Complete the required activity according to the offer conditions.",
+      "Wait for the activity to be tracked and validated.",
+      "Receive the corresponding reward when the offer is credited.",
+      "Reach the required withdrawal threshold when applicable.",
+      "Choose an available withdrawal method.",
+      "Complete any required verification.",
+      "Submit the withdrawal and track its status."
+    ],
+
+    "earningActivities": [
+      "Gaming offers",
+      "Paid surveys",
+      "App testing",
+      "Product testing",
+      "Shopping and cashback offers",
+      "Deals and promotional offers",
+      "Referral activities",
+      "Daily streak rewards",
+      "Other available tasks"
+    ],
+
+    "supportedDevices": [
+      "Desktop web",
+      "Android",
+      "iOS"
+    ],
+
+    "availabilityByRegion": "Freecash operates internationally, but available offers, surveys, games, bonuses, payment methods, minimum withdrawals and referral programs can vary by country.",
+
+    "ageRequirement": "16+",
+
+    "accountRequirements": [
+      "One account per person.",
+      "One account per household.",
+      "Users must meet Freecash eligibility requirements.",
+      "Email verification may be required.",
+      "Identity or eligibility verification may be required before rewards can be redeemed."
+    ],
+
+    "householdRules": "Freecash's current Terms of Service limit participation to one account per person and one account per household.",
+
+    "importantRestrictions": [
+      "Offers must be completed according to their stated requirements.",
+      "Rewards may be subject to tracking and validation.",
+      "Freecash may verify identity or eligibility.",
+      "Unredeemed rewards are subject to the platform's Terms of Service.",
+      "Offers and promotional campaigns can change.",
+      "Some rewards may be held while they are reviewed or validated."
+    ]
+  },
+
+  "payments": {
+    "available": true,
+
+    "methods": [
+      "PayPal",
+      "Bank transfer",
+      "Crypto",
+      "Gift cards",
+      "Visa",
+      "Venmo",
+      "Other region-dependent withdrawal methods"
+    ],
+
+    "minimumWithdrawal": "$5-$20 for the first withdrawal depending on region",
+
+    "minimumWithdrawalDetails": "Freecash states that the minimum threshold for the first withdrawal varies between $5 and $20 depending on the user's region. After the first successful withdrawal, the minimum can depend on the selected payment method.",
+
+    "processingTime": "Most withdrawals can take up to 30 minutes; bank transfers and certain manually processed methods can take up to 3 business days.",
+
+    "processingTimeDetails": "Freecash states that many withdrawals are processed quickly, while random security checks can extend processing. Bank transfer, Stash and Revolut withdrawals can take up to 3 business days according to current support documentation.",
+
+    "fees": [
+      {
+        "method": "PayPal",
+        "fee": "5%",
+        "details": "Freecash's current PayPal withdrawal guide states that a 5% withdrawal fee applies."
+      }
+    ],
+
+    "verificationRequirements": [
+      "Email verification may be required.",
+      "The first withdrawal requires identity verification.",
+      "Government-issued identification may be required.",
+      "A working camera may be required for identity verification.",
+      "Additional eligibility or security checks may occur."
+    ],
+
+    "withdrawalProcess": [
+      "Open the Cashout page.",
+      "Select an available withdrawal method.",
+      "Choose the amount.",
+      "Enter the required payment details.",
+      "Submit the withdrawal.",
+      "Complete identity verification if requested.",
+      "Wait for processing or security review.",
+      "Check the My Withdrawals section for the status."
+    ],
+
+    "paymentNotes": [
+      "Available withdrawal methods vary by region and account.",
+      "The first withdrawal has additional verification requirements.",
+      "PayPal withdrawals currently have a 5% fee.",
+      "Some withdrawals may be temporarily held for security checks.",
+      "Withdrawal availability should be checked directly in the user's Freecash account."
+    ]
+  },
+
+  "paymentProof": {
+    "whatCountsAsEvidence": [
+      "A withdrawal record inside the Freecash account.",
+      "A payment confirmation from the payment provider.",
+      "A transaction or reward ID.",
+      "Confirmation that funds were received by the selected payment account.",
+      "Matching withdrawal amount, date and transaction information."
+    ],
+
+    "officialEvidence": [
+      "Freecash publishes official withdrawal documentation.",
+      "Freecash provides a My Withdrawals section where users can track withdrawal status.",
+      "Freecash documents supported withdrawal methods and first-withdrawal requirements.",
+      "Freecash documents the PayPal withdrawal process."
+    ],
+
+    "userEvidence": [
+      "User-submitted payment screenshots can provide anecdotal evidence.",
+      "User reviews and reports can provide additional context.",
+      "User-generated evidence should not be treated as independently verified unless the transaction can be confirmed."
+    ],
+
+    "verificationMethods": [
+      "Check the withdrawal status inside Freecash.",
+      "Compare the withdrawal amount with the payment received.",
+      "Check the transaction or reward ID where available.",
+      "Verify the receiving payment account.",
+      "Check the date and amount against the withdrawal record."
+    ],
+
+    "verificationSteps": [
+      "Open the Freecash Cashout section.",
+      "Open My Withdrawals.",
+      "Locate the relevant transaction.",
+      "Check its status.",
+      "Compare the amount and payment method.",
+      "Check the receiving payment account.",
+      "Keep the transaction information if support is required."
+    ],
+
+    "screenshotLimitations": [
+      "Screenshots can be edited.",
+      "A screenshot alone does not independently prove a payment.",
+      "Screenshots may omit relevant account or transaction information.",
+      "Payment evidence is stronger when it can be matched to a transaction record."
+    ],
+
+    "firstWithdrawalRequirements": [
+      "Verify the account email.",
+      "Complete the first withdrawal minimum for the user's region.",
+      "Complete identity verification.",
+      "Provide required identification documents.",
+      "Follow any additional security or eligibility checks."
+    ],
+
+    "paymentProofNotes": [
+      "PayProofly should distinguish between official platform documentation and independently verified payment evidence.",
+      "Do not publish fabricated payment screenshots.",
+      "Do not state that PayProofly personally received a Freecash payment unless that test has actually occurred."
+    ]
+  },
+
+  "earnings": {
+    "earningTypes": [
+      "Gaming offers",
+      "Paid surveys",
+      "App testing",
+      "Product testing",
+      "Shopping and cashback",
+      "Referrals",
+      "Daily streak rewards",
+      "Other promotional offers"
+    ],
+
+    "earningFactors": [
+      "Country",
+      "Current offer availability",
+      "User profile",
+      "Survey eligibility",
+      "Offer difficulty",
+      "Time required",
+      "Offer milestones",
+      "Advertiser demand",
+      "Tracking quality",
+      "Offer validation",
+      "Promotional campaigns"
+    ],
+
+    "gameEarnings": {
+      "available": true,
+
+      "description": "Gaming offers are one of Freecash's highest-paying activity types. Rewards can be tied to multiple milestones such as reaching levels, completing objectives or playing for a specified period.",
+
+      "examples": [
+        "Reach a specified game level.",
+        "Complete an in-game milestone.",
+        "Play for a specified number of days.",
+        "Complete multiple progressive objectives."
+      ],
+
+      "advertisedMaximums": [
+        "Some specific gaming offers advertise potential rewards of up to $2,500 per offer."
+      ]
+    },
+
+    "surveyEarnings": {
+      "available": true,
+
+      "description": "Freecash offers paid surveys where the reward and estimated completion time can be displayed before starting. Survey availability depends on user profile, location and current research demand.",
+
+      "examples": [
+        "Consumer opinion surveys",
+        "Market research surveys",
+        "Profile-based surveys"
+      ],
+
+      "advertisedMaximums": []
+    },
+
+    "otherEarnings": [
+      "App testing",
+      "Product testing",
+      "Shopping cashback",
+      "Referral rewards",
+      "Daily streak rewards",
+      "Promotional rewards"
+    ],
+
+    "advertisedMaximums": [
+      {
+        "activity": "Gaming offers",
+        "maximum": "$2,500",
+        "context": "Specific offers and milestones can advertise rewards up to this amount. It is not a typical earnings figure."
+      }
+    ],
+
+    "earningTargets": [
+      {
+        "target": "$10",
+        "context": "Freecash describes $10 as a realistic starting target in its own earning guidance."
+      },
+      {
+        "target": "$100/month",
+        "context": "Freecash publishes guidance around targeting approximately $3 per day for active users, while noting that results depend on region, offers and consistency."
+      }
+    ],
+
+    "effectiveHourlyValue": "The advertised reward should be evaluated against the time, difficulty and milestones required to complete the offer. A higher headline reward does not necessarily mean a higher effective hourly return.",
+
+    "realisticExpectations": [
+      "Freecash is intended for spare-time rewards rather than guaranteed income.",
+      "Advertised maximum rewards are not typical earnings.",
+      "Higher rewards can require more time or difficult milestones.",
+      "Survey availability can vary significantly by user and location.",
+      "Gaming offers can require multiple milestones.",
+      "Results depend on available offers and user eligibility.",
+      "Earnings are not guaranteed.",
+      "Freecash should not be presented as a guaranteed replacement for employment income."
+    ],
+
+    "earningLimitations": [
+      "Some offers may only be available in certain countries.",
+      "Some offers have strict tracking requirements.",
+      "Some offers require new users or newly installed applications.",
+      "Completing an offer outside the required Freecash flow can cause tracking problems.",
+      "Offer terms can change or disappear.",
+      "Some rewards may be delayed while validation takes place."
+    ],
+
+    "earningsNotes": [
+      "Freecash's own advertised maximums should be clearly labeled as maximums.",
+      "PayProofly should not turn a company-published earning target into a guaranteed income claim.",
+      "Effective hourly value is often more useful than headline payout.",
+      "A realistic evaluation should consider time, difficulty, eligibility and tracking."
+    ]
+  },
+
+  "bonus": {
+    "available": true,
+
+    "bonusTypes": [
+      "Sign-up codes",
+      "Bonus codes",
+      "Lottery codes",
+      "Referral promotions",
+      "Daily reward promotions"
+    ],
+
+    "currentOffer": {
+      "available": true,
+
+      "amount": "$10 account credit for an eligible new user when the applicable sign-up promotion is available",
+
+      "currency": "USD",
+
+      "code": null,
+
+      "codeType": "Sign-up code",
+
+      "eligibility": [
+        "Must be a new eligible Freecash user.",
+        "Eligibility depends on location and the active promotion.",
+        "Only one sign-up code can be redeemed.",
+        "The promotion must be valid at the time of registration."
+      ],
+
+      "conditions": [
+        "Sign-up promotions can change.",
+        "Not every new account is necessarily eligible.",
+        "Specific promotional codes can have their own conditions.",
+        "The current registration flow should be treated as the final reference for eligibility."
+      ],
+
+      "regionRestrictions": [
+        "Promotional availability can vary by region."
+      ],
+
+      "expiration": "Promotional codes can change or expire; verify the current promotion before publication.",
+
+      "howToRedeem": [
+        "Create or begin creating a Freecash account.",
+        "Enter an eligible sign-up code during registration.",
+        "Complete the registration process.",
+        "If eligible, the applicable bonus is added according to the promotion."
+      ],
+
+      "verificationUrl": "https://freecash.com/academy/en/support/account/rewards/where-freecash-codes"
+    },
+
+    "otherPromotions": [
+      "Bonus codes can provide promotional rewards.",
+      "Lottery codes can provide lottery-related rewards.",
+      "Freecash may run temporary promotional campaigns.",
+      "Daily streak rewards can provide additional rewards for active users."
+    ],
+
+    "referralProgram": {
+      "available": true,
+
+      "description": "Freecash currently offers referral rewards in supported countries. The current referral system can reward the referring user when the referred user completes qualifying milestones such as installing a first game and making a first withdrawal.",
+
+      "requirements": [
+        "Referral availability depends on country.",
+        "The referred user must use the applicable referral link or mechanism.",
+        "Qualifying activity must be completed.",
+        "Referral rewards can be subject to verification."
+      ],
+
+      "reward": "Reward amounts vary by country and current referral program conditions."
+    },
+
+    "troubleshooting": [
+      "The code may have expired.",
+      "The promotion may be region restricted.",
+      "The account may not meet eligibility requirements.",
+      "Another sign-up code may already have been redeemed.",
+      "The promotional campaign may have changed.",
+      "The code may not apply to the user's registration flow."
+    ],
+
+    "bonusNotes": [
+      "Do not hardcode a temporary promotional code as a permanent SEO fact.",
+      "The current offer should be verified before publishing a page.",
+      "The $10 amount applies to the applicable eligible sign-up promotion described by current Freecash documentation."
+    ]
+  },
+
+  "legitimacy": {
+    "companyInformation": "Freecash is operated by Almedia GmbH. Current Terms of Service identify Almedia GmbH as the contracting party for the service except for certain US gift-card transactions, which may involve Almedia USA, Inc.",
+
+    "operatingHistory": "Freecash states that it has operated since 2020.",
+
+    "businessModel": "Freecash operates as a rewards intermediary connecting advertisers, brands and market-research providers with users who complete qualifying activities such as games, surveys, app testing and shopping-related offers.",
+
+    "paymentEvidence": [
+      "Freecash documents its withdrawal methods.",
+      "Freecash documents its first withdrawal process.",
+      "Freecash provides a My Withdrawals area for transaction status.",
+      "Freecash publishes instructions for PayPal and other withdrawal methods."
+    ],
+
+    "platformEvidence": [
+      "Freecash has published official Terms of Service.",
+      "Freecash maintains an official support and Academy documentation system.",
+      "Freecash publishes detailed withdrawal and account requirements.",
+      "Freecash states that it has operated since 2020."
+    ],
+
+    "trustSignals": [
+      "Published Terms of Service.",
+      "Published withdrawal documentation.",
+      "Published account verification requirements.",
+      "Documented payment methods.",
+      "Established operating history according to Freecash."
+    ],
+
+    "concerns": [
+      "Freecash experienced app-store removals in 2026.",
+      "Independent reporting raised concerns about marketing practices and data collection.",
+      "Offer tracking and validation can affect whether a reward is credited.",
+      "Withdrawals can require identity verification.",
+      "Promotional and earning conditions can vary by region."
+    ],
+
+    "controversies": [
+      {
+        "topic": "2026 app-store removals",
+        "summary": "TechCrunch reported in April 2026 that Apple and Google removed Freecash applications from their stores after concerns related to marketing practices and other issues.",
+        "source": "https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/",
+        "attribution": "TechCrunch"
+      }
+    ],
+
+    "companyResponses": [
+      {
+        "topic": "2026 app-store reporting",
+        "summary": "Almedia disputed allegations it considered inaccurate or misleading and stated that its apps were compliant with platform policies.",
+        "attribution": "Almedia response reported by TechCrunch"
+      }
+    ],
+
+    "verificationLimitations": [
+      "PayProofly should not claim personal payment testing unless actually performed.",
+      "Company-reported payout totals are not automatically independent audits.",
+      "User screenshots are not independently verified proof.",
+      "Third-party reports may contain allegations or interpretations that should remain attributed.",
+      "The legitimacy of the platform should not be reduced to a single data point."
+    ],
+
+    "legitimacyNotes": "Freecash has extensive official documentation and describes itself as a rewards platform operating since 2020. However, the platform also experienced significant app-store controversy in 2026. PayProofly should present both the documented platform information and the independently reported concerns without overstating either side."
+  },
+
+  "risksAndConsiderations": {
+    "generalRisks": [
+      "Rewards depend on eligibility and offer conditions.",
+      "Advertised rewards may require multiple milestones.",
+      "Offers can change, disappear or become unavailable.",
+      "Not every user will see the same offers."
+    ],
+
+    "trackingRisks": [
+      "Starting an offer outside the required Freecash flow can interfere with tracking.",
+      "Installing an advertised game directly from an app store instead of through the Freecash offer flow can cause tracking problems.",
+      "Offer completion must be correctly attributed and validated."
+    ],
+
+    "eligibilityRisks": [
+      "Some offers require users to be new customers.",
+      "Some offers are limited by country.",
+      "Survey eligibility depends on profile and demographic requirements.",
+      "Promotional codes can have regional restrictions."
+    ],
+
+    "paymentRisks": [
+      "The first withdrawal requires identity verification.",
+      "Security checks can delay withdrawals.",
+      "Withdrawal methods and minimums vary by region.",
+      "Some rewards can be temporarily held while they are validated."
+    ],
+
+    "accountRisks": [
+      "Freecash limits users to one account per person and one account per household.",
+      "Violating offer or platform requirements can affect eligibility for rewards.",
+      "Identity and eligibility checks may be performed."
+    ],
+
+    "privacyConsiderations": [
+      "Users should review Freecash's current Privacy Policy before signing up.",
+      "Some earning activities require sharing demographic or other information with research providers.",
+      "PayProofly should not make unsupported claims about how Freecash handles personal data."
+    ],
+
+    "regionalLimitations": [
+      "Offer availability varies by country.",
+      "Survey availability varies by country and profile.",
+      "Bonus eligibility varies by country.",
+      "Withdrawal methods vary by country.",
+      "First withdrawal minimums vary by country.",
+      "Referral programs can be limited to specific countries."
+    ],
+
+    "thingsToCheckBeforeUsing": [
+      "Check whether Freecash is available in your country.",
+      "Check the available withdrawal methods.",
+      "Check the first withdrawal minimum.",
+      "Check whether identity verification is required.",
+      "Read the individual offer requirements before starting.",
+      "Start games and apps through the required Freecash offer flow.",
+      "Check the estimated reward against the time required.",
+      "Do not assume an advertised maximum is a typical earning.",
+      "Check current promotional eligibility before using a bonus code.",
+      "Review the current Freecash Terms of Service and Privacy Policy."
+    ]
+  },
+
+  "pages": {
+    "hub": {
+      "label": "FREECASH REVIEW HUB",
+
+      "title": "Freecash Review",
+
+      "intro": "Freecash is a rewards platform where users can earn from games, surveys, app testing, shopping and other offers. This PayProofly hub brings together the main Freecash questions: whether it is legitimate, how payments work, what payment proof means, current bonuses, whether Freecash pays and how much users may realistically earn.",
+
+      "quickFacts": [
+        {
+          "label": "Platform type",
+          "value": "Get-paid-to / rewards platform"
+        },
+        {
+          "label": "Operator",
+          "value": "Almedia GmbH"
+        },
+        {
+          "label": "Operating since",
+          "value": "2020"
+        },
+        {
+          "label": "Minimum age",
+          "value": "16+"
+        },
+        {
+          "label": "First withdrawal",
+          "value": "$5-$20 depending on region"
+        },
+        {
+          "label": "PayPal fee",
+          "value": "5%"
+        }
+      ],
+
+      "overviewSections": [
+        {
+          "type": "text",
+          "heading": "What is Freecash?",
+          "paragraphs": [
+            "Freecash is a rewards platform operated by Almedia where users can earn by completing qualifying offers.",
+            "The platform includes gaming offers, paid surveys, app testing, shopping and other reward activities."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "How Freecash works",
+          "paragraphs": [
+            "Brands and advertisers pay for user acquisition, market research or other qualifying actions. Freecash presents eligible activities to users and credits rewards when the requirements are completed and validated."
+          ]
+        }
+      ],
+
+      "guideDescriptions": [
+        {
+          "title": "Is Freecash Legit?",
+          "url": "/freecash-is-it-legit/",
+          "description": "Review Freecash's operating history, payment documentation, verification requirements and the important 2026 developments."
+        },
+        {
+          "title": "Freecash Payment Proof",
+          "url": "/freecash-payment-proof/",
+          "description": "Learn what payment evidence can actually demonstrate and how Freecash withdrawals can be verified."
+        },
+        {
+          "title": "Freecash Bonus Code",
+          "url": "/freecash-bonus/",
+          "description": "Understand sign-up codes, the current $10 eligible sign-up promotion and regional restrictions."
+        },
+        {
+          "title": "Does Freecash Pay?",
+          "url": "/freecash-does-it-pay/",
+          "description": "Learn how Freecash withdrawals work, processing times, payment methods and common causes of delays."
+        },
+        {
+          "title": "How Much Does Freecash Pay?",
+          "url": "/freecash-how-much-does-it-pay/",
+          "description": "Explore Freecash earning types, advertised maximums and realistic factors that affect earnings."
+        }
+      ],
+
+      "howItWorksSection": [
+        {
+          "type": "steps",
+          "heading": "How to use Freecash",
+          "intro": "The basic process is straightforward, but every offer can have its own conditions.",
+          "steps": [
+            "Create an account.",
+            "Complete your profile where required.",
+            "Choose an available offer.",
+            "Read the offer requirements before starting.",
+            "Complete the required activity.",
+            "Wait for tracking and validation.",
+            "Receive the reward.",
+            "Cash out using an available payment method."
+          ]
+        }
+      ],
+
+      "paymentsSection": [
+        {
+          "type": "text",
+          "heading": "Freecash payment methods",
+          "paragraphs": [
+            "Current Freecash documentation lists payment options including PayPal, bank transfer, crypto, gift cards and other region-dependent methods.",
+            "The first withdrawal has additional verification requirements and a regional minimum threshold."
+          ]
+        },
+        {
+          "type": "infoBox",
+          "heading": "Current withdrawal facts",
+          "items": [
+            {
+              "label": "First withdrawal minimum",
+              "value": "$5-$20 depending on region"
+            },
+            {
+              "label": "PayPal",
+              "value": "$5-$200 per transaction"
+            },
+            {
+              "label": "PayPal fee",
+              "value": "5%"
+            },
+            {
+              "label": "Most withdrawals",
+              "value": "Up to 30 minutes"
+            },
+            {
+              "label": "Some bank transfers",
+              "value": "Up to 3 business days"
+            }
+          ]
+        }
+      ],
+
+      "earningsSection": [
+        {
+          "type": "text",
+          "heading": "How much can you earn?",
+          "paragraphs": [
+            "Freecash does not provide a single universal earnings rate. Rewards depend on country, offer availability, task difficulty, time required and validation.",
+            "Some individual gaming offers advertise rewards up to $2,500, but that is an offer-specific maximum and should not be treated as typical earnings."
+          ]
+        },
+        {
+          "type": "note",
+          "text": "Evaluate offers by reward, estimated time, difficulty and milestone requirements rather than by headline payout alone."
+        }
+      ],
+
+      "bonusSection": [
+        {
+          "type": "text",
+          "heading": "Freecash bonus",
+          "paragraphs": [
+            "Freecash currently documents sign-up codes, bonus codes and lottery codes.",
+            "Eligible new users can receive a $10 account-credit sign-up bonus when the applicable promotion is available. Eligibility depends on location and the current promotion."
+          ]
+        }
+      ],
+
+      "contextSection": [
+        {
+          "type": "text",
+          "heading": "Freecash in 2026",
+          "paragraphs": [
+            "Freecash faced significant app-store developments in 2026. Independent reporting covered the removal of its apps from Apple and Google stores and raised concerns about marketing and data practices.",
+            "Almedia disputed allegations it considered inaccurate or misleading. These developments are relevant context for readers researching the platform and should be considered alongside Freecash's own documentation."
+          ]
+        }
+      ],
+
+      "payprooflyVerificationSection": [
+        {
+          "type": "warning",
+          "heading": "What PayProofly can and cannot verify",
+          "text": "PayProofly should not claim that it personally received a Freecash payment unless a real payment test has been performed. Official withdrawal documentation can be verified, while user screenshots should be treated as anecdotal unless the transaction can be independently confirmed."
+        }
+      ],
+
+      "faq": [
+        {
+          "question": "Is Freecash legit?",
+          "answer": "Freecash is an established rewards platform operated by Almedia and has published Terms of Service and withdrawal documentation. However, it also faced app-store controversy in 2026, so users should review both the official documentation and independent reporting."
+        },
+        {
+          "question": "Does Freecash really pay?",
+          "answer": "Freecash documents multiple withdrawal methods and provides a withdrawal-status system. Whether a specific reward is paid depends on offer completion, tracking, validation and account eligibility."
+        },
+        {
+          "question": "What is the minimum withdrawal?",
+          "answer": "The first withdrawal minimum varies by region and is currently listed by Freecash as $5-$20."
+        },
+        {
+          "question": "Does Freecash charge a PayPal fee?",
+          "answer": "Freecash's current PayPal guide states that a 5% withdrawal fee applies."
+        },
+        {
+          "question": "How much can you make on Freecash?",
+          "answer": "Earnings vary by country, offer availability, task difficulty and time required. Some gaming offers advertise high maximum rewards, but those amounts are not typical earnings."
+        }
+      ],
+
+      "cta": {
+        "type": "emailUnlock",
+        "heading": "Want the current Freecash offer?",
+        "description": "Get access to the current Freecash information and related PayProofly guides.",
+        "buttonText": "Unlock Current Offer"
+      }
+    },
+
+    "isItLegit": {
+      "label": "FREECASH LEGITIMACY REVIEW",
+
+      "title": "Is Freecash Legit?",
+
+      "intro": "Freecash is an established rewards platform operated by Almedia, but readers should look beyond the simple question of whether it is legitimate. The relevant issues include its operating history, documented payment system, verification requirements, offer tracking and the app-store controversy reported during 2026.",
+
+      "quickAnswer": "Freecash is a real rewards platform with documented withdrawal systems and an operating history dating back to 2020 according to Freecash. At the same time, the platform experienced significant app-store controversy in 2026. PayProofly therefore treats legitimacy as a question of documented evidence and current conditions rather than relying on a simple label.",
+
+      "sections": [
+        {
+          "type": "text",
+          "heading": "What is Freecash?",
+          "paragraphs": [
+            "Freecash is a rewards platform operated by Almedia. Users can earn rewards from games, surveys, app testing, shopping and other qualifying activities."
+          ]
+        },
+        {
+          "type": "infoBox",
+          "heading": "Freecash at a glance",
+          "items": [
+            {
+              "label": "Operator",
+              "value": "Almedia GmbH"
+            },
+            {
+              "label": "Operating since",
+              "value": "2020"
+            },
+            {
+              "label": "Minimum age",
+              "value": "16+"
+            },
+            {
+              "label": "First withdrawal",
+              "value": "$5-$20 depending on region"
+            },
+            {
+              "label": "Verification",
+              "value": "Email and identity verification may be required"
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Does Freecash actually pay?",
+          "paragraphs": [
+            "Freecash documents multiple withdrawal methods and provides users with a My Withdrawals section where they can track payout status.",
+            "A successful payout still depends on completing the applicable offer requirements, correct tracking, validation and meeting account eligibility requirements."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What makes Freecash different from a traditional job?",
+          "paragraphs": [
+            "Freecash describes itself as a rewards platform rather than a guaranteed income source. Earnings depend on available offers and the amount of time and effort a user chooses to spend."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What happened with Freecash in 2026?",
+          "paragraphs": [
+            "In April 2026, TechCrunch reported that Freecash applications had been removed from Apple's App Store and Google Play after concerns about marketing practices and other issues.",
+            "Almedia disputed allegations it considered inaccurate or misleading and said its apps complied with platform policies."
+          ]
+        },
+        {
+          "type": "warning",
+          "heading": "Important context",
+          "text": "The 2026 app-store controversy should not be presented as proof that every Freecash transaction is fraudulent. It is a documented platform event and should be described with attribution to the reporting and the company's response."
+        },
+        {
+          "type": "text",
+          "heading": "What should users check before signing up?",
+          "paragraphs": [
+            "Users should check the current withdrawal methods, regional offer availability, first-withdrawal requirements, identity verification requirements and the terms attached to individual offers."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What PayProofly can verify",
+          "paragraphs": [
+            "PayProofly can verify publicly documented Freecash policies, withdrawal instructions, bonus information and independent reporting.",
+            "PayProofly should not claim a personally verified payment without conducting an actual payment test."
+          ]
+        }
+      ],
+
+      "faq": [
+        {
+          "question": "Is Freecash a scam?",
+          "answer": "Freecash is an established rewards platform operated by Almedia, but it experienced significant app-store controversy in 2026. The appropriate approach is to review its documented policies, payment process and independent reporting rather than rely on a single label."
+        },
+        {
+          "question": "Does Freecash really pay?",
+          "answer": "Freecash documents multiple withdrawal methods and a withdrawal-status system. Individual rewards depend on valid offer completion, tracking, validation and account eligibility."
+        },
+        {
+          "question": "Is Freecash free?",
+          "answer": "Freecash states that users do not pay to join the platform."
+        },
+        {
+          "question": "Why can Freecash ask for ID?",
+          "answer": "Freecash states that it may verify identity and eligibility before crediting or redeeming rewards. Its first-withdrawal documentation specifically requires identity verification."
+        }
+      ],
+
+      "cta": {
+        "type": "emailUnlock",
+        "heading": "Want the current Freecash information?",
+        "description": "See the current Freecash guides for payments, bonuses and realistic earnings.",
+        "buttonText": "Unlock Current Offer"
+      }
+    },
+
+    "paymentProof": {
+      "label": "FREECASH PAYMENT PROOF",
+
+      "title": "Freecash Payment Proof",
+
+      "intro": "Freecash publishes official documentation explaining how withdrawals work, what verification is required and where users can check their withdrawal status. This guide explains what counts as useful payment evidence and what a screenshot alone cannot prove.",
+
+      "sections": [
+        {
+          "type": "text",
+          "heading": "Does Freecash really pay?",
+          "paragraphs": [
+            "Freecash documents withdrawals through PayPal, bank transfer, crypto, gift cards and other methods depending on region.",
+            "The platform also provides a My Withdrawals section where users can track individual withdrawal transactions."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What counts as Freecash payment proof?",
+          "paragraphs": [
+            "Useful evidence includes the withdrawal record, transaction information and confirmation from the receiving payment provider.",
+            "The strongest evidence connects the Freecash withdrawal record with the actual transaction received."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Freecash first withdrawal requirements",
+          "paragraphs": [
+            "The first withdrawal requires email verification, reaching the applicable regional minimum and completing identity verification.",
+            "Freecash currently states that the first withdrawal minimum varies from $5 to $20 depending on region."
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "How to check a Freecash withdrawal",
+          "intro": "Use the platform's own withdrawal records before relying on screenshots.",
+          "steps": [
+            "Open Cashout.",
+            "Open My Withdrawals.",
+            "Find the relevant transaction.",
+            "Check the status.",
+            "Compare the amount and payment method.",
+            "Confirm receipt in the destination payment account."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Freecash PayPal payment proof",
+          "paragraphs": [
+            "Freecash's current PayPal process uses a withdrawal request followed by processing and, in the current Tremendous flow, an email containing the redemption step.",
+            "Freecash states that PayPal withdrawals are available from $5 to $200 and carry a 5% withdrawal fee."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What if a Freecash reward does not appear?",
+          "paragraphs": [
+            "First check whether the offer has a pending validation period and whether the activity was started through the required Freecash tracking flow.",
+            "If the offer remains missing after the applicable waiting period, the user should follow Freecash's support process for that offer."
+          ]
+        },
+        {
+          "type": "note",
+          "text": "A screenshot can show what someone claims happened, but a screenshot alone does not independently verify a payment."
+        },
+        {
+          "type": "text",
+          "heading": "Freecash payment proof: what PayProofly can verify",
+          "paragraphs": [
+            "PayProofly can verify Freecash's published withdrawal process and requirements.",
+            "PayProofly should not describe a payment as personally tested unless an actual PayProofly withdrawal has been completed."
+          ]
+        }
+      ],
+
+      "faq": [
+        {
+          "question": "What is the first Freecash withdrawal minimum?",
+          "answer": "Freecash currently states that the first withdrawal minimum varies from $5 to $20 depending on region."
+        },
+        {
+          "question": "Does Freecash charge for PayPal withdrawals?",
+          "answer": "Freecash's current PayPal guide states that a 5% withdrawal fee applies."
+        },
+        {
+          "question": "How long do Freecash withdrawals take?",
+          "answer": "Freecash states that most withdrawals can take up to 30 minutes, while bank transfers and certain manually processed methods can take up to 3 business days."
+        },
+        {
+          "question": "Can Freecash require ID verification?",
+          "answer": "Yes. Freecash states that identity verification is required for the first withdrawal."
+        }
+      ],
+
+      "cta": {
+        "type": "emailUnlock",
+        "heading": "Want the current Freecash payment information?",
+        "description": "Get the latest PayProofly guide covering Freecash withdrawals and payment verification.",
+        "buttonText": "Unlock Current Offer"
+      }
+    },
+
+    "bonus": {
+      "label": "FREECASH BONUS & PROMO CODES",
+
+      "title": "Freecash Bonus Code",
+
+      "intro": "Freecash currently uses several types of promotional codes, including sign-up codes, bonus codes and lottery codes. The sign-up promotion can provide $10 in account credit to eligible new users, but availability depends on the user's location and the active promotion.",
+
+      "sections": [
+        {
+          "type": "text",
+          "heading": "Does Freecash have a sign-up bonus?",
+          "paragraphs": [
+            "Yes. Freecash's current support documentation states that eligible new users can receive a $10 account-credit sign-up bonus when the applicable promotion is available.",
+            "Not every new account is necessarily eligible because sign-up promotions can depend on location."
+          ]
+        },
+        {
+          "type": "comparison",
+          "heading": "Freecash bonus code vs. sign-up code",
+          "items": [
+            {
+              "label": "Sign-up code",
+              "value": "Entered during registration and can provide a welcome bonus to an eligible new user."
+            },
+            {
+              "label": "Bonus code",
+              "value": "A promotional code used for bonus-related rewards."
+            },
+            {
+              "label": "Lottery code",
+              "value": "A code associated with Freecash lottery promotions."
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What is the current Freecash sign-up bonus?",
+          "paragraphs": [
+            "Freecash currently states that when an eligible account qualifies for the sign-up promotion, the bonus is $10 in account credit.",
+            "Because promotions can change, the registration experience and current official support page should be checked before publication."
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "How to use a Freecash sign-up code",
+          "intro": "Use the code during the account-registration process.",
+          "steps": [
+            "Open the Freecash registration page or app.",
+            "Enter an eligible sign-up code in the designated field.",
+            "Complete registration.",
+            "Check the account balance or applicable reward area.",
+            "Confirm that the promotional terms apply to the account."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Where can you find Freecash bonus codes?",
+          "paragraphs": [
+            "Freecash states that it shares sign-up codes through its social-media channels and may also distribute codes through partners."
+          ]
+        },
+        {
+          "type": "warning",
+          "heading": "Do not rely on an old promo code",
+          "text": "Freecash promotional codes can change. PayProofly should verify the code immediately before publication instead of treating a code as permanent information."
+        },
+        {
+          "type": "text",
+          "heading": "Why a Freecash bonus code may not work",
+          "paragraphs": [
+            "A code may be expired, region restricted, already used or unavailable for the account's eligibility conditions.",
+            "Promotional campaigns can also change without preserving the same code or reward."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Freecash referral codes",
+          "paragraphs": [
+            "Freecash currently offers referral-related rewards in supported countries. Referral rewards and eligibility can vary by country and current program rules."
+          ]
+        }
+      ],
+
+      "faq": [
+        {
+          "question": "What is the Freecash sign-up bonus?",
+          "answer": "Freecash currently states that an eligible new user can receive $10 in account credit when the applicable sign-up promotion is available."
+        },
+        {
+          "question": "Can everyone get the Freecash bonus?",
+          "answer": "No. Freecash states that sign-up bonuses are region-dependent."
+        },
+        {
+          "question": "Can I use more than one Freecash sign-up code?",
+          "answer": "Freecash states that only one sign-up code can be redeemed."
+        },
+        {
+          "question": "Why did my Freecash promo code not work?",
+          "answer": "The code may be expired, region restricted, already used or incompatible with the account's eligibility."
+        }
+      ],
+
+      "cta": {
+        "type": "emailUnlock",
+        "heading": "Want the current Freecash bonus?",
+        "description": "Get the latest PayProofly information about Freecash sign-up bonuses and promotional codes.",
+        "buttonText": "Unlock Current Offer"
+      }
+    },
+
+    "doesItPay": {
+      "label": "DOES FREECASH PAY?",
+
+      "title": "Does Freecash Pay?",
+
+      "intro": "Freecash documents multiple withdrawal methods and a specific process for receiving rewards. The amount and timing of a payout depend on the activity completed, validation, withdrawal method, account requirements and region.",
+
+      "sections": [
+        {
+          "type": "text",
+          "heading": "Does Freecash really pay?",
+          "paragraphs": [
+            "Freecash provides documented withdrawal methods including PayPal, bank transfer, crypto and gift cards.",
+            "A reward becomes withdrawable only after the applicable offer has been completed and validated and the account meets the required conditions."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "How does Freecash pay users?",
+          "paragraphs": [
+            "Users complete qualifying activities and receive rewards in their Freecash account. Once the applicable withdrawal requirements are met, users can select an available cashout method."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What payment methods does Freecash use?",
+          "paragraphs": [
+            "Current documentation includes PayPal, bank transfer, crypto, gift cards and other methods depending on region."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Does Freecash pay through PayPal?",
+          "paragraphs": [
+            "Yes. Freecash currently documents PayPal withdrawals from $5 to $200 per transaction.",
+            "Its current PayPal guide states that a 5% withdrawal fee applies."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "How long does Freecash take to pay?",
+          "paragraphs": [
+            "Freecash states that most withdrawals can take up to 30 minutes.",
+            "Bank transfers and certain manually processed methods can take up to 3 business days.",
+            "Random security checks can extend processing time."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Why might a Freecash reward not appear?",
+          "paragraphs": [
+            "Possible reasons include tracking problems, incomplete offer requirements, pending validation, eligibility issues or a delay from the third-party offer provider."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Can Freecash refuse to credit an offer?",
+          "paragraphs": [
+            "Rewards are subject to offer requirements, tracking, validation and the Freecash Terms of Service. Freecash also reserves the right to conduct identity and eligibility checks."
+          ]
+        },
+        {
+          "type": "note",
+          "text": "A withdrawal that is temporarily pending does not automatically mean the payment failed. Check Cashout > My Withdrawals for the current status."
+        }
+      ],
+
+      "faq": [
+        {
+          "question": "Does Freecash pay real money?",
+          "answer": "Freecash supports withdrawal methods such as PayPal, bank transfer and crypto, along with gift cards and other reward options. Actual payout eligibility depends on completed and validated offers."
+        },
+        {
+          "question": "How fast does Freecash pay?",
+          "answer": "Freecash states that most withdrawals can take up to 30 minutes, while some bank transfers can take up to 3 business days."
+        },
+        {
+          "question": "Does Freecash charge a PayPal fee?",
+          "answer": "Yes. Freecash currently states that a 5% fee applies to PayPal withdrawals."
+        },
+        {
+          "question": "What is the first Freecash withdrawal minimum?",
+          "answer": "The first withdrawal minimum currently varies from $5 to $20 depending on region."
+        }
+      ],
+
+      "cta": {
+        "type": "emailUnlock",
+        "heading": "Want the current Freecash payout information?",
+        "description": "Get the latest PayProofly guide covering Freecash payments and withdrawals.",
+        "buttonText": "Unlock Current Offer"
+      }
+    },
+
+    "howMuchDoesItPay": {
+      "label": "FREECASH EARNINGS GUIDE",
+
+      "title": "How Much Does Freecash Pay?",
+
+      "intro": "Freecash does not have one universal earning rate. Rewards depend on country, offer availability, task difficulty, time required, milestones, tracking and validation. Some gaming offers advertise very high maximum rewards, but those figures are specific to individual offers rather than typical earnings.",
+
+      "sections": [
+        {
+          "type": "text",
+          "heading": "How much can you make on Freecash?",
+          "paragraphs": [
+            "The amount a user can earn depends heavily on which offers are available and how much time the user spends completing them.",
+            "Gaming offers can have larger advertised rewards than surveys, but they can also require substantially more time and multiple milestones."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "What determines Freecash earnings?",
+          "paragraphs": [
+            "Important factors include country, user profile, current advertiser demand, offer difficulty, time required, eligibility and tracking."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "How much do Freecash games pay?",
+          "paragraphs": [
+            "Freecash currently advertises some gaming offers with potential rewards of up to $2,500.",
+            "That is the maximum associated with specific offers and milestones, not a typical amount that users should expect to earn."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "How much do Freecash surveys pay?",
+          "paragraphs": [
+            "Survey rewards vary according to the survey, country, profile and current research demand.",
+            "Freecash displays information such as estimated time and reward for available surveys so users can compare opportunities."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Can you make $10 on Freecash?",
+          "paragraphs": [
+            "Freecash describes $10 as a realistic starting target in its own guidance.",
+            "Actual results depend on available offers, eligibility, tracking and how much time the user spends."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Can you make $100 a month on Freecash?",
+          "paragraphs": [
+            "Freecash publishes guidance around a target of roughly $3 per day for active users and recommends combining higher-paying gaming offers with surveys and other activities.",
+            "This is a target described by Freecash for active users, not a guaranteed or typical income level for every user."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "How much can you earn per hour on Freecash?",
+          "paragraphs": [
+            "There is no single universal hourly rate because tasks differ substantially.",
+            "For example, an offer worth $20 that takes approximately one hour has a different effective value from a $50 offer that requires several hours and difficult milestones."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Why do some Freecash offers pay so much?",
+          "paragraphs": [
+            "Advertisers can pay more when they value acquiring a particular user, generating a completed action or reaching a difficult milestone.",
+            "Higher rewards therefore often come with more requirements."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Are Freecash's biggest advertised rewards realistic?",
+          "paragraphs": [
+            "They can be real advertised maximums for specific offers, but they should not be interpreted as normal earnings.",
+            "A maximum reward may require reaching multiple difficult milestones over an extended period."
+          ]
+        },
+        {
+          "type": "steps",
+          "heading": "How to choose a Freecash offer",
+          "intro": "Look beyond the headline payout.",
+          "steps": [
+            "Check the total reward.",
+            "Check the estimated completion time.",
+            "Read all milestones.",
+            "Check whether the offer requires a new user.",
+            "Confirm that the offer is available in your country.",
+            "Start the activity through the correct Freecash tracking flow.",
+            "Compare the effective value against other available offers."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Does Freecash pay more for games or surveys?",
+          "paragraphs": [
+            "Freecash states that gaming offers contain some of the highest-paying opportunities on the platform.",
+            "Surveys are generally shorter and easier to compare by time and reward, but their availability and payout can be lower."
+          ]
+        },
+        {
+          "type": "text",
+          "heading": "Does Freecash replace a regular income?",
+          "paragraphs": [
+            "Freecash itself describes the platform as spare-time rewards rather than a replacement for a regular paycheck.",
+            "Earnings can vary significantly based on location, offer availability and user activity."
+          ]
+        }
+      ],
+
+      "faq": [
+        {
+          "question": "What is the highest-paying Freecash offer?",
+          "answer": "Freecash currently advertises some gaming offers with potential rewards up to $2,500, but this is an offer-specific maximum rather than a typical earning amount."
+        },
+        {
+          "question": "Can you make $100 a month on Freecash?",
+          "answer": "Freecash publishes guidance describing a target around $3 per day for active users, but this is not guaranteed and results vary by region, offers and consistency."
+        },
+        {
+          "question": "Do Freecash games pay more than surveys?",
+          "answer": "Freecash states that gaming offers can contain some of the highest rewards, while surveys can be shorter and easier to evaluate by time and payout."
+        },
+        {
+          "question": "How do I get better value from Freecash offers?",
+          "answer": "Compare the reward against the estimated time and difficulty, read all milestones and make sure the activity is started through the correct Freecash tracking flow."
+        }
+      ],
+
+      "cta": {
+        "type": "emailUnlock",
+        "heading": "Want the current Freecash earning information?",
+        "description": "Get the latest PayProofly guide covering Freecash earning potential and realistic expectations.",
+        "buttonText": "Unlock Current Offer"
+      }
+    }
+  },
+
+  "sources": [
+    {
+      "name": "Freecash Official Website",
+      "url": "https://freecash.com/",
+      "type": "primary",
+      "accessed": "2026-09-28"
+    },
+    {
+      "name": "Freecash Terms of Service",
+      "url": "https://freecash.com/en/policies/terms",
+      "type": "primary",
+      "accessed": "2026-09-28"
+    },
+    {
+      "name": "Freecash - Is Freecash Legit?",
+      "url": "https://freecash.com/academy/en/support/general/platform/is-freecash-legit",
+      "type": "primary",
+      "accessed": "2026-09-28"
+    },
+    {
+      "name": "Freecash - Your First Withdrawal",
+      "url": "https://freecash.com/academy/en/support/withdrawal/issues/first-cashout-requirements",
+      "type": "primary",
+      "accessed": "2026-09-28"
+    },
+    {
+      "name": "Freecash - Where to Find Freecash Codes",
+      "url": "https://freecash.com/academy/en/support/account/rewards/where-freecash-codes",
+      "type": "primary",
+      "accessed": "2026-09-28"
+    },
+    {
+      "name": "Freecash - How to Cashout with PayPal",
+      "url": "https://freecash.com/academy/en/support/withdrawal/cash/how-withdraw-to-paypal",
+      "type": "primary",
+      "accessed": "2026-09-28"
+    },
+    {
+      "name": "Freecash - Why Is My Withdrawal Still Pending?",
+      "url": "https://freecash.com/academy/en/support/withdrawal/issues/why-withdrawal-pending",
+      "type": "primary",
+      "accessed": "2026-09-28"
+    },
+    {
+      "name": "Freecash - Make Money Online with Freecash",
+      "url": "https://freecash.com/academy/en/insider/how-to-earn-money-on-freecash",
+      "type": "primary",
+      "accessed": "2026-09-28"
+    },
+    {
+      "name": "Freecash - How to Earn $100/Month",
+      "url": "https://freecash.com/academy/en/insider/how-earn-100-dollars-monthly-freecash",
+      "type": "primary",
+      "accessed": "2026-09-28"
+    },
+    {
+      "name": "TechCrunch - Freecash App Store Investigation",
+      "url": "https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores/",
+      "type": "secondary",
+      "accessed": "2026-09-28"
+    }
+  ],
+
+  "editorial": {
+    "language": "en",
+    "tone": "factual",
+    "originalContent": true,
+    "avoidGuaranteedEarnings": true,
+    "avoidFabricatedProof": true,
+    "avoidUnverifiedClaims": true,
+    "attributeContestedClaims": true,
+    "discloseAffiliateRelationship": true
+  }
+}

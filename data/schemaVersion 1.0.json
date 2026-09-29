@@ -1,0 +1,395 @@
+{
+  "schemaVersion": "1.0",
+
+  "app": {
+    "name": "",
+    "slug": "",
+    "category": "",
+    "subcategory": "",
+    "officialUrl": "",
+    "logoUrl": "",
+    "companyName": "",
+    "operator": "",
+    "foundedYear": null,
+    "countryOfOrigin": "",
+    "availability": "",
+    "reviewDate": ""
+  },
+
+  "research": {
+    "status": "complete",
+    "researchDate": "",
+    "primarySources": [],
+    "secondarySources": [],
+    "conflictingInformation": [],
+    "verificationNotes": []
+  },
+
+  "seo": {
+
+    "hub": {
+      "title": "",
+      "description": ""
+    },
+
+    "isItLegit": {
+      "title": "",
+      "description": ""
+    },
+
+    "paymentProof": {
+      "title": "",
+      "description": ""
+    },
+
+    "bonus": {
+      "title": "",
+      "description": ""
+    },
+
+    "doesItPay": {
+      "title": "",
+      "description": ""
+    },
+
+    "howMuchDoesItPay": {
+      "title": "",
+      "description": ""
+    }
+  },
+
+  "platform": {
+
+    "shortDescription": "",
+
+    "fullDescription": "",
+
+    "platformType": "",
+
+    "howItWorks": [],
+
+    "earningActivities": [],
+
+    "supportedDevices": [],
+
+    "availabilityByRegion": "",
+
+    "ageRequirement": "",
+
+    "accountRequirements": [],
+
+    "householdRules": "",
+
+    "importantRestrictions": []
+  },
+
+  "payments": {
+
+    "available": true,
+
+    "methods": [],
+
+    "minimumWithdrawal": "",
+
+    "minimumWithdrawalDetails": "",
+
+    "processingTime": "",
+
+    "processingTimeDetails": "",
+
+    "fees": [],
+
+    "verificationRequirements": [],
+
+    "withdrawalProcess": [],
+
+    "paymentNotes": []
+  },
+
+  "paymentProof": {
+
+    "whatCountsAsEvidence": [],
+
+    "officialEvidence": [],
+
+    "userEvidence": [],
+
+    "verificationMethods": [],
+
+    "verificationSteps": [],
+
+    "screenshotLimitations": [],
+
+    "firstWithdrawalRequirements": [],
+
+    "paymentProofNotes": []
+  },
+
+  "earnings": {
+
+    "earningTypes": [],
+
+    "earningFactors": [],
+
+    "gameEarnings": {
+
+      "available": false,
+
+      "description": "",
+
+      "examples": [],
+
+      "advertisedMaximums": []
+    },
+
+    "surveyEarnings": {
+
+      "available": false,
+
+      "description": "",
+
+      "examples": [],
+
+      "advertisedMaximums": []
+    },
+
+    "otherEarnings": [],
+
+    "advertisedMaximums": [],
+
+    "earningTargets": [],
+
+    "effectiveHourlyValue": "",
+
+    "realisticExpectations": [],
+
+    "earningLimitations": [],
+
+    "earningsNotes": []
+  },
+
+  "bonus": {
+
+    "available": false,
+
+    "bonusTypes": [],
+
+    "currentOffer": {
+
+      "available": false,
+
+      "amount": "",
+
+      "currency": "",
+
+      "code": null,
+
+      "codeType": "",
+
+      "eligibility": [],
+
+      "conditions": [],
+
+      "regionRestrictions": [],
+
+      "expiration": "",
+
+      "howToRedeem": [],
+
+      "verificationUrl": ""
+    },
+
+    "otherPromotions": [],
+
+    "referralProgram": {
+
+      "available": false,
+
+      "description": "",
+
+      "requirements": [],
+
+      "reward": ""
+    },
+
+    "troubleshooting": [],
+
+    "bonusNotes": []
+  },
+
+  "legitimacy": {
+
+    "companyInformation": "",
+
+    "operatingHistory": "",
+
+    "businessModel": "",
+
+    "paymentEvidence": [],
+
+    "platformEvidence": [],
+
+    "trustSignals": [],
+
+    "concerns": [],
+
+    "controversies": [],
+
+    "companyResponses": [],
+
+    "verificationLimitations": [],
+
+    "legitimacyNotes": ""
+  },
+
+  "risksAndConsiderations": {
+
+    "generalRisks": [],
+
+    "trackingRisks": [],
+
+    "eligibilityRisks": [],
+
+    "paymentRisks": [],
+
+    "accountRisks": [],
+
+    "privacyConsiderations": [],
+
+    "regionalLimitations": [],
+
+    "thingsToCheckBeforeUsing": []
+  },
+
+  "pages": {
+
+    "hub": {
+
+      "label": "",
+
+      "title": "",
+
+      "intro": "",
+
+      "quickFacts": [],
+
+      "overviewSections": [],
+
+      "guideDescriptions": [],
+
+      "howItWorksSection": [],
+
+      "paymentsSection": [],
+
+      "earningsSection": [],
+
+      "bonusSection": [],
+
+      "contextSection": [],
+
+      "payprooflyVerificationSection": [],
+
+      "faq": [],
+
+      "cta": {}
+    },
+
+    "isItLegit": {
+
+      "label": "",
+
+      "title": "",
+
+      "intro": "",
+
+      "quickAnswer": "",
+
+      "sections": [],
+
+      "faq": [],
+
+      "cta": {}
+    },
+
+    "paymentProof": {
+
+      "label": "",
+
+      "title": "",
+
+      "intro": "",
+
+      "sections": [],
+
+      "faq": [],
+
+      "cta": {}
+    },
+
+    "bonus": {
+
+      "label": "",
+
+      "title": "",
+
+      "intro": "",
+
+      "sections": [],
+
+      "faq": [],
+
+      "cta": {}
+    },
+
+    "doesItPay": {
+
+      "label": "",
+
+      "title": "",
+
+      "intro": "",
+
+      "sections": [],
+
+      "faq": [],
+
+      "cta": {}
+    },
+
+    "howMuchDoesItPay": {
+
+      "label": "",
+
+      "title": "",
+
+      "intro": "",
+
+      "sections": [],
+
+      "faq": [],
+
+      "cta": {}
+    }
+  },
+
+  "sources": [],
+
+  "editorial": {
+
+    "language": "en",
+
+    "tone": "factual",
+
+    "originalContent": true,
+
+    "avoidGuaranteedEarnings": true,
+
+    "avoidFabricatedProof": true,
+
+    "avoidUnverifiedClaims": true,
+
+    "attributeContestedClaims": true,
+
+    "discloseAffiliateRelationship": true
+  }
+}

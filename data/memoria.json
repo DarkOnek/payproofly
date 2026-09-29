@@ -1,0 +1,402 @@
+{
+  "project": {
+    "name": "PayProofly",
+    "repository": "https://github.com/DarkOnek/payproofly",
+    "language": "English",
+    "projectType": "Programmatic SEO + CPA/Affiliate Website",
+    "status": "Architecture defined. Ready to build Builder.",
+    "lastUpdated": "2026-09-28"
+  },
+
+  "mainGoal": {
+    "target": "$1000 before December 31, 2026",
+    "strategy": [
+      "Programmatic SEO",
+      "Real Google traffic",
+      "CPA/Affiliate monetization",
+      "Email capture",
+      "Useful people-first content",
+      "Multiple app categories"
+    ],
+    "currentLaunch": {
+      "categories": 3,
+      "appsPerCategory": 5,
+      "totalApps": 15,
+      "intentPagesPerApp": 5,
+      "hubPagesPerApp": 1,
+      "seoPages": 75,
+      "thankYouPages": 3,
+      "totalInitialPages": 78
+    }
+  },
+
+  "importantProjectPrinciple": {
+    "rule": "Work sequentially. Define one objective, complete it, verify it, then move to the next objective.",
+    "doNotJumpAhead": true,
+    "doNotBreakExistingDesign": true,
+    "doNotModifyFreecashMasterUntilBuilderCanReproduceIt": true
+  },
+
+  "currentSiteStructure": {
+    "root": [
+      "index.html",
+      "css/styles.css",
+      "js/app.js",
+      "data/"
+    ],
+
+    "freecash": [
+      "freecash/index.html",
+      "freecash-is-it-legit/index.html",
+      "freecash-payment-proof/index.html",
+      "freecash-bonus/index.html",
+      "freecash-does-it-pay/index.html",
+      "freecash-how-much-does-it-pay/index.html"
+    ]
+  },
+
+  "freecashMaster": {
+    "status": "Completed and visually verified",
+    "role": "Master reference/template for Builder",
+
+    "pages": [
+      {
+        "path": "/freecash/",
+        "purpose": "Freecash Hub"
+      },
+      {
+        "path": "/freecash-is-it-legit/",
+        "purpose": "Is Freecash Legit?"
+      },
+      {
+        "path": "/freecash-payment-proof/",
+        "purpose": "Freecash Payment Proof"
+      },
+      {
+        "path": "/freecash-bonus/",
+        "purpose": "Freecash Bonus Code"
+      },
+      {
+        "path": "/freecash-does-it-pay/",
+        "purpose": "Does Freecash Pay?"
+      },
+      {
+        "path": "/freecash-how-much-does-it-pay/",
+        "purpose": "How Much Does Freecash Pay?"
+      }
+    ],
+
+    "masterCharacteristics": [
+      "Same general HTML architecture",
+      "Same CSS",
+      "SEO metadata",
+      "Canonical URLs",
+      "Open Graph metadata",
+      "Breadcrumbs",
+      "BreadcrumbList Schema",
+      "Article/WebPage Schema",
+      "Header",
+      "Article hero",
+      "Content sections",
+      "Sources",
+      "CTA",
+      "FAQ",
+      "Related internal links",
+      "Footer"
+    ],
+
+    "importantRule": "The six existing Freecash pages are the visual and structural reference. Do not redesign them while building the Builder."
+  },
+
+  "schemas": {
+    "masterSchema": {
+      "filename": "schemaVersion-1.0.json",
+      "schemaVersion": "1.0",
+      "role": "Official data contract between AI and Builder",
+      "status": "Saved in GitHub"
+    },
+
+    "freecashSchema": {
+      "filename": "schemaFreecash-1.0.json",
+      "schemaVersion": "1.0",
+      "role": "Complete populated Freecash example based on the real Freecash pages and current research",
+      "status": "Saved in GitHub"
+    },
+
+    "relationship": "schemaVersion-1.0.json defines the structure. schemaFreecash-1.0.json is a complete real-world implementation of that structure."
+  },
+
+  "programmaticSEOArchitecture": {
+    "model": "One JSON per app generates six pages",
+
+    "pageStructure": [
+      "app hub",
+      "is-it-legit",
+      "payment-proof",
+      "bonus",
+      "does-it-pay",
+      "how-much-does-it-pay"
+    ],
+
+    "example": {
+      "app": "Freecash",
+      "slug": "freecash",
+      "generatedUrls": [
+        "/freecash/",
+        "/freecash-is-it-legit/",
+        "/freecash-payment-proof/",
+        "/freecash-bonus/",
+        "/freecash-does-it-pay/",
+        "/freecash-how-much-does-it-pay/"
+      ]
+    },
+
+    "futureExample": {
+      "app": "Prime Opinion",
+      "slug": "prime-opinion",
+      "generatedUrls": [
+        "/prime-opinion/",
+        "/prime-opinion-is-it-legit/",
+        "/prime-opinion-payment-proof/",
+        "/prime-opinion-bonus/",
+        "/prime-opinion-does-it-pay/",
+        "/prime-opinion-how-much-does-it-pay/"
+      ]
+    }
+  },
+
+  "architectureResponsibilities": {
+    "AI": {
+      "responsibilities": [
+        "Research the app",
+        "Use current and reliable sources",
+        "Research official sources first",
+        "Use secondary sources when relevant",
+        "Identify conflicting information",
+        "Write original content",
+        "Fill the Master JSON",
+        "Create different editorial content for each search intent",
+        "Attribute controversial claims",
+        "Avoid fabricated payment proof",
+        "Avoid guaranteed earnings",
+        "Avoid unverified claims"
+      ],
+      "output": "One validated application JSON based on schemaVersion 1.0"
+    },
+
+    "Builder": {
+      "responsibilities": [
+        "Receive JSON",
+        "Validate JSON against schemaVersion 1.0",
+        "Reject incomplete or invalid JSON",
+        "Generate the six HTML pages",
+        "Generate URLs from app.slug",
+        "Generate page titles",
+        "Generate meta descriptions",
+        "Generate canonical URLs",
+        "Generate Open Graph metadata",
+        "Generate breadcrumbs",
+        "Generate BreadcrumbList Schema",
+        "Generate appropriate page Schema",
+        "Generate header",
+        "Generate article structure",
+        "Render content blocks",
+        "Generate FAQ sections",
+        "Generate CTA sections",
+        "Generate source sections",
+        "Generate internal links",
+        "Generate related Freecash/app links",
+        "Create the required folders",
+        "Write index.html files",
+        "Preserve the existing CSS design"
+      ],
+      "doesNotDo": [
+        "Research apps",
+        "Invent facts",
+        "Invent payment proof",
+        "Invent earnings",
+        "Decide whether an app is legitimate",
+        "Write unsupported claims",
+        "Modify the Master JSON schema automatically",
+        "Redesign the website"
+      ]
+    }
+  },
+
+  "contentArchitecture": {
+    "globalData": [
+      "app",
+      "platform",
+      "payments",
+      "paymentProof",
+      "earnings",
+      "bonus",
+      "legitimacy",
+      "risksAndConsiderations"
+    ],
+
+    "pageSpecificData": [
+      "pages.hub",
+      "pages.isItLegit",
+      "pages.paymentProof",
+      "pages.bonus",
+      "pages.doesItPay",
+      "pages.howMuchDoesItPay"
+    ],
+
+    "principle": "General factual information belongs in structured data. Editorial page-specific content belongs in pages."
+  },
+
+  "contentBlocks": {
+    "supported": [
+      "text",
+      "bullets",
+      "steps",
+      "infoBox",
+      "note",
+      "warning",
+      "comparison",
+      "quote",
+      "faq",
+      "cta",
+      "sourceList",
+      "guideCards"
+    ],
+
+    "importantRule": "sections must remain arrays because each page can contain a different number and combination of sections."
+  },
+
+  "technicalSEO": {
+    "automaticGeneration": true,
+
+    "elements": [
+      "title",
+      "meta description",
+      "robots",
+      "canonical",
+      "Open Graph",
+      "Breadcrumb",
+      "BreadcrumbList Schema",
+      "WebPage/Article Schema",
+      "internal links",
+      "related content"
+    ],
+
+    "breadcrumbStructure": {
+      "hub": [
+        "PayProofly",
+        "App"
+      ],
+      "intentPage": [
+        "PayProofly",
+        "App",
+        "Current Page"
+      ]
+    },
+
+    "urlGeneration": {
+      "rule": "URLs are generated automatically from app.slug and page intent.",
+      "examples": [
+        "/freecash/",
+        "/freecash-is-it-legit/",
+        "/freecash-payment-proof/",
+        "/freecash-bonus/",
+        "/freecash-does-it-pay/",
+        "/freecash-how-much-does-it-pay/"
+      ]
+    }
+  },
+
+  "internalLinking": {
+    "automatic": true,
+
+    "rule": "The Builder should generate the app hub and all five intent-page links automatically from app.slug.",
+
+    "freecashExample": [
+      "/freecash/",
+      "/freecash-is-it-legit/",
+      "/freecash-payment-proof/",
+      "/freecash-bonus/",
+      "/freecash-does-it-pay/",
+      "/freecash-how-much-does-it-pay/"
+    ]
+  },
+
+  "freecashEditorialRules": {
+    "paymentProof": "Never claim PayProofly personally tested a Freecash payment unless a real test was performed.",
+    "earnings": "Advertised maximums must not be presented as typical earnings.",
+    "bonus": "Do not permanently hardcode volatile promotional codes.",
+    "controversies": "Attribute claims to the source and include the company's response where relevant.",
+    "companyClaims": "Company-reported numbers must be attributed to Freecash and not presented as independently audited.",
+    "affiliate": "Disclose affiliate relationships where applicable."
+  },
+
+  "currentFreecashFactsUsedAsReference": {
+    "operator": "Almedia GmbH",
+    "operatingSince": 2020,
+    "minimumAge": "16+",
+    "firstWithdrawal": "$5-$20 depending on region",
+    "paypalFee": "5%",
+    "paypalRange": "$5-$200 per transaction",
+    "typicalProcessing": "Most withdrawals can take up to 30 minutes",
+    "bankProcessing": "Some bank transfers can take up to 3 business days",
+    "gamingAdvertisedMaximum": "Up to $2,500 for specific offers",
+    "signUpBonus": "$10 account credit for eligible new users under the applicable promotion",
+    "bonusCode": null,
+    "important": "Offers, bonuses, withdrawal methods, minimums and eligibility can vary by region and change over time."
+  },
+
+  "importantLessons": {
+    "css": "Do not alter styles.css while building the Builder unless explicitly required.",
+    "freecashFolders": "All six Freecash folders are siblings under the project root. Intent pages are NOT nested inside /freecash/.",
+    "json": "JSON contains structured data and content, not HTML.",
+    "builder": "Builder should be dumb but reliable: validate and render.",
+    "templates": "HTML structure should be fixed in Builder templates while content comes from JSON.",
+    "editorialFreedom": "AI may write different content for each intent, but must remain within the schema and factual requirements.",
+    "scalability": "The same Builder must work for Freecash, Prime Opinion and eventually all planned apps.",
+    "verification": "Before generating other apps, Builder must successfully reproduce the Freecash reference."
+  },
+
+  "nextObjective": {
+    "name": "Build the PayProofly Programmatic SEO Builder",
+    "status": "Not started",
+    "startingPoint": "schemaVersion-1.0.json + schemaFreecash-1.0.json",
+
+    "sequence": [
+      "1. Inspect the actual two JSON files from GitHub.",
+      "2. Validate schemaFreecash-1.0.json against schemaVersion-1.0.json.",
+      "3. Design the Builder architecture.",
+      "4. Create the fixed HTML templates/components.",
+      "5. Create the JSON validator.",
+      "6. Create the content-block renderer.",
+      "7. Create automatic SEO generation.",
+      "8. Create automatic breadcrumb generation.",
+      "9. Create automatic internal-link generation.",
+      "10. Create automatic folder and index.html generation.",
+      "11. Run Builder using Freecash JSON.",
+      "12. Compare generated Freecash pages against the existing six Freecash master pages.",
+      "13. Fix differences without breaking the original site.",
+      "14. Verify the Builder completely.",
+      "15. Only after verification, test another app such as Prime Opinion."
+    ],
+
+    "firstTest": "Freecash",
+    "secondTest": "Prime Opinion",
+    "doNotProceedToOtherAppsUntil": "Freecash Builder reproduction is verified."
+  },
+
+  "tomorrowInstructions": {
+    "context": "The user already has schemaVersion 1.0 and schemaFreecash 1.0 saved in GitHub.",
+    "preferredWorkflow": [
+      "Read the two schemas from GitHub.",
+      "Do not ask the user to recreate information already present in those files.",
+      "Use Freecash as the master test case.",
+      "Build one objective at a time.",
+      "Give complete copy/paste code.",
+      "Explain exactly where each file/code block goes.",
+      "Wait for verification before moving to the next objective."
+    ],
+    "userPreference": "The user prefers code to copy/paste rather than downloadable files.",
+    "important": "Do not restart the project analysis from zero. Resume from Builder construction."
+  }
+}
